@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;diskbuffer&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../buffer" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../test/.idea" />
+      <root url="file://$PROJECT_DIR$/../buffer/.git" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
